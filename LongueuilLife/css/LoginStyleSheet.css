@@ -1,0 +1,60 @@
+﻿/****************************************************************
+                Body Form 
+*****************************************************************/
+.formBody{ align-content:center; float:left; width:50%; height:auto; text-align:center; border:double solid; margin-top:20px; padding-top:50px;}
+
+form{
+    align-content:center;  width:50%; height:auto; text-align:center; border:double solid;
+   }
+.textboxField {
+    float:left;
+     margin-left:37px;
+   /*  margin-bottom: 1rem;*/
+
+  }
+#loginImg{
+    float:right;
+    width:50%;
+   
+}
+
+.formBody h2{
+    margin-top: 12px;
+    text-align: left;
+    line-height: 25px;
+    margin: 10px 0;
+    color: #ff0000;
+    font-weight: 300;
+    padding-left: 50px;
+}
+.formBody p{ text-align:left; color:#364045;  margin-left:37px;}
+.userInputSignUp{width:90px; height:25px; margin-left:37px; margin-right:15px;}
+
+ #ethnicity{ float:left; width:40%; margin-left:15px; }
+#religion{ float:left; width:40%;}
+ #bodyType { float:left; width:40%; margin-left:15px;}
+ #height{ float:left; width:40%;}
+ #lName{ float:left; width:40%;margin-left:15px;}
+  #fName{ float:left; width:40%; }
+/*.lableTextTwo label{  margin-left:40px; margin-right:15px; font-family:Arial, Helvetica, sans-serif;}*/
+.lableTextTwo{  margin-left:40px;}
+#joinSignup1{ float:right;}
+.textboxField div{ text-align:left; }
+/*.textboxFieldMain div{ text-align:left;}*/
+.selectSmall select{ width:30px;}
+#submitSize{ width:120px;}
+div#loginImg{ width:50%; height:auto; align-content:center;}
+/****************************************************************
+               Profile Form 
+*****************************************************************/
+div#Profile{ align-content:center; text-align:center; width: 50%; height:auto;}
+.profileForm{ align-content:center; text-align:center; width: 50%; height:auto; }
+.displayProfile{  width:30%;
+            margin:auto;
+            align-content:center;
+            border-radius:10px;
+            box-shadow:5px 5px;
+            border-style:double;
+            background-color:aqua;
+          text-align:center;
+            padding:20px;}
